@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\anguy\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\anguy\\.nuget\\packages"
+    ]
+  }
+}
