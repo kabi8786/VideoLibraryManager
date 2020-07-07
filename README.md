@@ -53,3 +53,5 @@
 ## Member Menu
 - `borrowMovie()` asks currently verified member to rent a movie they are not currently borrowing.
 - `returnBorrowedMovie()` asks currently verified member which movie from their `borrowed movie` record that they wish to return to the `movie collection`
+
+Overall Mark: 54/60
