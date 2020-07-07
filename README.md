@@ -1,5 +1,5 @@
 # VidMan
-
+Overall Mark: 54/60
 ## Main Menu
 - `mainMenu()` outputs main menu options in command line. 
 - `mainInput()` handles given user input for staff and member menus. Entering `1 or 2` in console requires additional successful verification to access the menu. Entering `0` ends the program. 
@@ -54,4 +54,4 @@
 - `borrowMovie()` asks currently verified member to rent a movie they are not currently borrowing.
 - `returnBorrowedMovie()` asks currently verified member which movie from their `borrowed movie` record that they wish to return to the `movie collection`
 
-Overall Mark: 54/60
+
